@@ -1,0 +1,43 @@
+ devices:
+  HX-FI-A:
+        os: linux
+        type: switch
+        credentials:
+            default:
+              username: <ENTER USERNAME AND REMOVE BRACKETS>
+              password: <ENTER PASSWORD AND REMOVE BRACKETS>
+        connections: 
+
+          cli: 
+            protocol: ssh
+            ip: <ENTER IP FOR CONNECTION>
+  HX-FI-B:
+        os: linux
+        type: switch
+        credentials:
+            default:
+              username: <ENTER USERNAME AND REMOVE BRACKETS>
+              password: <ENTER PASSWORD AND REMOVE BRACKETS>
+        connections: 
+
+          cli: 
+            protocol: ssh
+            ip: <ENTER IP FOR CONNECTION>
+
+
+
+# DO NOT TOUCH- NEEDED FOR PARSING FI OUTPUT 
+  fake-nxos:
+      os: nxos
+      type: switch
+      credentials:
+            default:
+              username: NA
+              password: NA
+      connections: 
+          cli: 
+            protocol: ssh
+            ip: 0.0.0.0
+
+
+

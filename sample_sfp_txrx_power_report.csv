@@ -1,0 +1,9 @@
+Date Time,Device Name,Serial Number,Switch Interface Name,RX Power,RX Power Status,TX Power,TX Power Status
+17/08/2022 12:25,HX-FI-A,JUR1948G05C,Ethernet1/9,-25.22,low alarm,-2.19,normal
+17/08/2022 12:25,HX-FI-A,JUR1950G31U,Ethernet1/10,-26.98,low alarm,-2.24,normal
+17/08/2022 12:26,HX-FI-B,JUR1950G0U7,Ethernet1/9,-26.98,low alarm,-2.2,normal
+17/08/2022 12:26,HX-FI-B,JUR1948G04T,Ethernet1/10,-30.0,low alarm,-2.35,normal
+17/08/2022 12:27,HX-FI-A,JUR1948G05C,Ethernet1/9,-25.22,low alarm,-2.19,normal
+17/08/2022 12:27,HX-FI-A,JUR1950G31U,Ethernet1/10,-26.98,low alarm,-2.24,normal
+17/08/2022 12:27,HX-FI-B,JUR1950G0U7,Ethernet1/9,-26.98,low alarm,-2.2,normal
+17/08/2022 12:27,HX-FI-B,JUR1948G04T,Ethernet1/10,-30.0,low alarm,-2.35,normal
